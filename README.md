@@ -32,3 +32,5 @@ Explain how to run the automated tests for this system in able to run this appli
 
 python manage.py test 
 # Run the application
+
+python manage.py runserver 
