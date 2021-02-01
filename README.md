@@ -56,3 +56,6 @@ python manage.py runserver
 
 
 # support and contact details
+
+for more information,ideas or reccommendation you can reach to me by my email address : sadrauyizere@gmail.com
+
