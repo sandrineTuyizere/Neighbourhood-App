@@ -25,3 +25,5 @@ What things you need to install the software and how to install them install all
 * python3.6 manage.py migrate
 * python3.6 -m pip install gunicorn
 * pip install whitenoise
+
+# Running the tests
