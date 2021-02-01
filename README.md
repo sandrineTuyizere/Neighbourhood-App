@@ -48,3 +48,5 @@ python manage.py runserver
 * Only view details of a single neighborhood.
 
 # Technology used
+* Python3.6
+* Django
