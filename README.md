@@ -42,4 +42,4 @@ python manage.py runserver
 * Set up a profile 
 * Se up general location and  neighborhood name.
 * Find a list of different businesses in my neighborhood.
-
+* Find Contact Information for the health department and Police authorities near my neighborhood.
