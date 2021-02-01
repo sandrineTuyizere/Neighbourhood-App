@@ -53,3 +53,6 @@ python manage.py runserver
 * terminal
 * ubuntu window
 * html
+
+
+# support and contact details
