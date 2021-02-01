@@ -40,4 +40,5 @@ python manage.py runserver
 
 * Sign in with the application to start using.
 * Set up a profile 
+* Se up general location and  neighborhood name.
 
