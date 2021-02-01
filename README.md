@@ -30,4 +30,4 @@ What things you need to install the software and how to install them install all
 
 Explain how to run the automated tests for this system in able to run this application you need first to run the server by using:
 
-* python3.6 manage.py runserver
+python manage.py test 
