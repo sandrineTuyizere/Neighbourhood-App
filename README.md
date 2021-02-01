@@ -50,3 +50,4 @@ python manage.py runserver
 # Technology used
 * Python3.6
 * Django
+* terminal
