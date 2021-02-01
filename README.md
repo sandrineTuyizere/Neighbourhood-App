@@ -27,3 +27,5 @@ What things you need to install the software and how to install them install all
 * pip install whitenoise
 
 # Running the tests
+
+Explain how to run the automated tests for this system in able to run this application you need first to run the server by using:
