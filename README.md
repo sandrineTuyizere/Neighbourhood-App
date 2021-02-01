@@ -51,3 +51,5 @@ python manage.py runserver
 * Python3.6
 * Django
 * terminal
+* ubuntu window
+* html
