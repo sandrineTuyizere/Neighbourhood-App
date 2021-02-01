@@ -39,4 +39,5 @@ python manage.py runserver
 # User Story
 
 * Sign in with the application to start using.
+* Set up a profile 
 
